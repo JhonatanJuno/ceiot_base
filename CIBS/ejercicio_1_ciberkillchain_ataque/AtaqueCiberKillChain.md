@@ -64,5 +64,5 @@ Se implementa unos Nodos Controladores LoRaWAN  basado en el Modulo RAK3172 de l
 ### Actions on Objectives
   - Extraer informacion de mediciones de calidad de agua, posibilidad de secuetro de la base de datos historica.
   - Eliminacion de la data del usuario, con consecuencia perjudicar la opracion.
-  - Perjidicar la producccion de la empresa, al haber alterado los parametros de calidad de agua en el riego. 
+  - Perjudicar la producccion de la empresa, al haber alterado los parametros de calidad de agua en el riego. 
   
