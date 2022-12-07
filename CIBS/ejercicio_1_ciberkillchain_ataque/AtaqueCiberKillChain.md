@@ -4,57 +4,41 @@ Hacer una copia de este documento para utilizar com plantilla para el ejercicio 
 
 ## Alumno
 
-(completar)
+Jhonatan Alexander Juño Garcia  (i0611)
 
 ## Enunciado
 
 Armar una cyberkillchain usando técnicas de la matriz de Att&ck para un escenario relacionado al trabajo práctico de la carrera.
 
-### Instrucciones
+## Datos del Trabajo Práctico de Final de Carrera
+Todavia no tengo definido el Trabajo Practico de Final de Carrera, por lo que presentare un escenario de la empresa en la que trabajo.
 
-El escenario debe ser con el sistema ya funcionando en el futuro.
+### Sistema de Monitoreo de Calidad de Agua en Reservorios Agricolas
+Se implementa unos Nodos Controladores LoRaWAN  basado en el Modulo RAK3172 de la Compañia RAKWireles, que lleva Microcontrolador + Modulo de Radio LoRA, un modulo de gestion de carga de baterias y un modulo de comunicacion RS485 RTU para sensores : PH y Conductividad Electrica. Ese nodo va conectado a un Gateway Comercial y este a su vez a un Network Server. Finalmente para el despliegue de la Aplicacion se contrato un Servicio de Aplication Server de Tercero, que ya Provee Plantillas para gestion de conecciones, almacenamiento de Datos, gestion de ususarios, reglas alarmas, etc. En el siguiente Diagrama se muestra el Sistema:
 
-Debe ser en primera persona, es el punto de vista del atacante.
+![](./img/Arquitectura_de_RED.png)
 
-Es recomendable hacer dos o tres pasadas, en la primera la idea, en las siguientes refinamientos especificando las técnicas.
-PURO ATAQUE, nada de andar pensando cómo corregir nada.
-
-Para cada etapa, si hay varias medidas posibles, ordenar dejando para lo último lo que se va a hacer en el siguiente paso.
-
-### Ejemplo adaptado a un juego de guerra inventado:
-
-* Reconnaissance
-  - Imagen satelital identifica una pista de aterrizaje.
-  - Espías dicen que por el puerto entra el combustible.
-  - Espías locales dicen que la playa cercana no tiene buena vigilancia.
-
-* Weaponization
-  - Puedo preparar un bombardeo.
-  - Puedo preparar un equipo de comandos de sabotage.
-  
-* Delivery
-  - Envío al equipo de sabotage a la playa cercana en submarino.
-  
-* Exploit
-  - El equipo logra desembarcar sin incidentes en la playa.
-  
-* Installation  
-  - El equipo se hace pasar por una compañia de circo como camuflaje.
-
-* Command & Control
-  - Podría utilizar palomas mensajeras.
-  - Podría utilizar Super High TeraHertz Radio que el adversario no puede detectar, eso haré.
-  
-* Actions on Objectives
-  - El equipo de comandos provoca daños menores en las cañerías.
-  - El equipo de comandos coloca minas en el puerto.
-  
-
-## Datos trabajo práctico
-
-link
-
-Muy breve descripción
 
 ## Resolución
 
+* Reconnaissance
+  - 
+
+* Weaponization
+  - 
+  
+* Delivery
+  - 
+  
+* Exploit
+  - 
+  
+* Installation  
+  - 
+
+* Command & Control
+  - 
+  
+* Actions on Objectives
+  - 
+  
