@@ -54,13 +54,15 @@ Se implementa unos Nodos Controladores LoRaWAN  basado en el Modulo RAK3172 de l
   
 ### Installation  
   - Generamos un nodo falso en Loriot para reemplazar un nodo instalado. Este nodo enviando valores fuera de rango para generar una falla en los actuadores.
-  - Generamo un nuevo analsis de datos en TagoIO, para anular el envio de Correos y SMS de Alarmas
+  - Generamo un nuevo script de datos en TagoIO, para anular el envio de Correos y SMS de Alarmas
+  - Generamos un nuevo script para la descarga y eliminaion de datos.
 
 ### Command & Control
   - Instalamos el nuevo nodo falso y cargamos un scrip malisioso para envio erroneo de notificaciones, que haga creer el la compañia que el sistema esta trabajando correctamente.
+  - Dejamos Corriendo los scripts del sistema, dejando el Script de descarga y borrado a demanda el atacante
   
 ### Actions on Objectives
-  - Estraer informacion de mediciones de calidad de agua, posibilidad de secuetro de la base de datos historica.
+  - Extraer informacion de mediciones de calidad de agua, posibilidad de secuetro de la base de datos historica.
   - Eliminacion de la data del usuario, con consecuencia perjudicar la opracion.
   - Perjidicar la producccion de la empresa, al haber alterado los parametros de calidad de agua en el riego. 
   
